@@ -1,4 +1,4 @@
-def load_pdf(pdf):
+def loadPdf(pdf):
     with open(pdf) as file:
         text = file.read()
     
