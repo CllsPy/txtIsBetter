@@ -1,4 +1,4 @@
-from load.load_pdf import load_pdf
+#from .tests.load.load_pdf import load_pdf
 from unittest.mock import mock_open, patch
 from io import StringIO
 import pytest
