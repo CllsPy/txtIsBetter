@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "txtisbetter"
 version = "0.1.0"
-description = "convert almost everything in a .txt file
+description = "convert almost everything in a .txt file"
 authors = ["CLL"]
 license = "MIT"
 readme = "README.md"

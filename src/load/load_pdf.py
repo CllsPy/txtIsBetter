@@ -1,5 +1,5 @@
 def loadPdf(pdf):
     with open(pdf) as file:
-        text = file.read()
+        txt = file.read()
     
-    print(text)
+    return txt
